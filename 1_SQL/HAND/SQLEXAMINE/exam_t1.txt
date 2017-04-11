@@ -1,0 +1,26 @@
+刘阳：t001
+胡明星：t003
+
+t001
+	c003 ssh
+	c004 oracle
+	c008 div+css
+t002
+	c001 j2se
+	c002 java web
+	c007 javascript
+	c010 ejb3.0
+t003
+	c005 sql server 2005
+	c006 c#
+	c009 phu
+	
+stu001:3
+2   2
+3	2
+4	1
+
+
+58
+60
+72
